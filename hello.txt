@@ -1,3 +1,14 @@
 hi i am ankit
 
+<<<<<<< HEAD
 hi i am divyanshu.
+=======
+today is raining day.
+
+
+hi i am change third time to notepad++ ......
+>>>>>>> 2b20cdb35c3e05746c444810a71667fecf3eb89f
+
+
+fourth time i have to change.
+I am divyanshu.
